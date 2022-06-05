@@ -3,7 +3,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 
-global.owner = ['6287893056652','0']
+global.owner = ['6285338886682']
 global.packname = 'Bot Whatsapp'
 global.author = 'Hasdi'
 global.sessionName = 'data'
